@@ -6,4 +6,4 @@ Run Steps:
 
 1. git clone this repo
 2. npm install
-3. Run: "node app.js"
+3. npm start

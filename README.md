@@ -1,4 +1,4 @@
-# nightmarejsTest
+# NightmareJSTest
 Quick setup of NightmareJS
 
 

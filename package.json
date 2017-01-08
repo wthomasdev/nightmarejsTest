@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Quick setup of NightmareJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wthomasdev/nightmarejsTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wthomasdev/nightmarejsTest/issues"
+  },
+  "homepage": "https://github.com/wthomasdev/nightmarejsTest#readme",
+  "dependencies": {
+    "nightmare": "^2.9.1"
+  }
+}
